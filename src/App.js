@@ -1,8 +1,9 @@
+import MonthByHourTable from "./components/MonthByHourTable";
 
 function App() {
   return (
     <div>
-      Learn React
+      <MonthByHourTable/>
     </div>
   );
 }
